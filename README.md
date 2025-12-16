@@ -1,4 +1,4 @@
-# Retail Range Optimisation – Excel Digital Twin
+# Retail Range Optimisation – Digital Twin
 
 An Excel-based simulation of how a Range Optimisation Analyst optimises product range and shelf space in a large retailer.
 
