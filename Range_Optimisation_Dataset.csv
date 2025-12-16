@@ -1,0 +1,26 @@
+Store_ID,Store_Size,Suburb_Type,Brand,Product_Name,Category,Subcategory,Pack_Size_g,Price_AUD,Cost_AUD,Units_Sold_4Wk,Sales_AUD,Margin_AUD,Inventory_On_Hand,Days_of_Supply,Out_of_Stock_Count,Competitor_Price_AUD,Competitor_Availability,Current_Facings,Gross_Margin_Pct,UPSPW,Inventory_Turnover,Sales_per_Unit,Sales_per_Facing,Margin_per_Facing,Price_Gap_AUD,Shelf_Space_m,GMROS
+S001,Large,Metro,Arnott's,Arnott's Milk Arrowroot,Biscuits,Sweet Biscuits,250,3.5,1.8,120,420,204,80,20,1,3.4,Yes,3,48.57,30,1.5,3.5,140,68,0.1,0.75,272
+S001,Large,Metro,Arnott's,Arnott's Scotch Fingers,Biscuits,Sweet Biscuits,250,3.8,1.95,95,361,176.85,60,18,2,3.7,Yes,2,48.99,23.8,1.58,3.8,180.5,88.42,0.1,0.5,353.7
+S001,Large,Metro,Coles,Coles Milk Arrowroot,Biscuits,Sweet Biscuits,250,2.8,1.4,110,308,154,70,22,0,2.7,Yes,2,50,27.5,1.57,2.8,154,77,0.1,0.5,308
+S001,Large,Metro,Private Label,Woolworths Milk Arrowroot,Biscuits,Sweet Biscuits,250,2.6,1.3,130,338,169,90,25,0,2.5,Yes,3,50,32.5,1.44,2.6,112.67,56.33,0.1,0.75,225.33
+S001,Large,Metro,Arnott's,Arnott's Choc Ripple,Biscuits,Sweet Biscuits,250,4,2.1,80,320,152,50,15,3,3.9,Yes,2,47.5,20,1.6,4,160,76,0.1,0.5,304
+S002,Medium,Metro,Arnott's,Arnott's Milk Arrowroot,Biscuits,Sweet Biscuits,250,3.5,1.8,90,315,121.5,60,18,1,3.4,Yes,3,38.57,22.5,1.5,3.5,105,40.5,0.1,0.75,162
+S002,Medium,Metro,Arnott's,Arnott's Scotch Fingers,Biscuits,Sweet Biscuits,250,3.8,1.95,70,266,101.15,45,16,2,3.7,Yes,2,38.03,17.5,1.56,3.8,133,50.58,0.1,0.5,202.3
+S002,Medium,Metro,Coles,Coles Milk Arrowroot,Biscuits,Sweet Biscuits,250,2.8,1.4,85,238,119,55,20,0,2.7,Yes,2,50,21.2,1.55,2.8,119,59.5,0.1,0.5,238
+S002,Medium,Metro,Private Label,Woolworths Milk Arrowroot,Biscuits,Sweet Biscuits,250,2.6,1.3,100,260,130,70,22,0,2.5,Yes,3,50,25,1.43,2.6,86.67,43.33,0.1,0.75,173.33
+S002,Medium,Metro,Arnott's,Arnott's Choc Ripple,Biscuits,Sweet Biscuits,250,4,2.1,60,240,114,40,14,3,3.9,Yes,2,47.5,15,1.5,4,120,57,0.1,0.5,228
+S003,Small,Regional,Arnott's,Arnott's Milk Arrowroot,Biscuits,Sweet Biscuits,250,3.6,1.85,60,216,81,40,16,2,3.5,Yes,2,37.5,15,1.5,3.6,108,40.5,0.1,0.5,162
+S003,Small,Regional,Arnott's,Arnott's Scotch Fingers,Biscuits,Sweet Biscuits,250,3.9,2,45,175.5,70.2,30,14,3,3.8,Yes,1,40,11.2,1.5,3.9,175.5,70.2,0.1,0.25,280.8
+S003,Small,Regional,Coles,Coles Milk Arrowroot,Biscuits,Sweet Biscuits,250,2.9,1.45,55,159.5,79.75,40,18,1,2.8,Yes,2,50,13.8,1.38,2.9,79.75,39.88,0.1,0.5,159.5
+S003,Small,Regional,Private Label,Woolworths Milk Arrowroot,Biscuits,Sweet Biscuits,250,2.7,1.35,70,189,94.5,50,21,0,2.6,Yes,2,50,17.5,1.4,2.7,94.5,47.25,0.1,0.5,189
+S003,Small,Regional,Arnott's,Arnott's Choc Ripple,Biscuits,Sweet Biscuits,250,4.1,2.15,40,164,78,30,13,4,4,Yes,1,47.56,10,1.33,4.1,164,78,0.1,0.25,312
+S004,Large,Metro,Arnott's,Arnott's Milk Arrowroot,Biscuits,Sweet Biscuits,250,3.5,1.8,115,402.5,195.5,75,19,1,3.4,Yes,3,48.57,28.8,1.53,3.5,134.17,65.17,0.1,0.75,260.67
+S004,Large,Metro,Arnott's,Arnott's Scotch Fingers,Biscuits,Sweet Biscuits,250,3.8,1.95,90,342,166.5,55,17,2,3.7,Yes,2,48.68,22.5,1.64,3.8,171,83.25,0.1,0.5,333
+S004,Large,Metro,Coles,Coles Milk Arrowroot,Biscuits,Sweet Biscuits,250,2.8,1.4,105,294,147,65,21,0,2.7,Yes,2,50,26.2,1.62,2.8,147,73.5,0.1,0.5,294
+S004,Large,Metro,Private Label,Woolworths Milk Arrowroot,Biscuits,Sweet Biscuits,250,2.6,1.3,125,325,162.5,85,24,0,2.5,Yes,3,50,31.2,1.47,2.6,108.33,54.17,0.1,0.75,216.67
+S004,Large,Metro,Arnott's,Arnott's Choc Ripple,Biscuits,Sweet Biscuits,250,4,2.1,75,300,142.5,45,14,3,3.9,Yes,2,47.5,18.8,1.67,4,150,71.25,0.1,0.5,285
+S005,Medium,Regional,Arnott's,Arnott's Milk Arrowroot,Biscuits,Sweet Biscuits,250,3.6,1.85,75,270,101.25,50,17,2,3.5,Yes,2,37.5,18.8,1.5,3.6,135,50.62,0.1,0.5,202.5
+S005,Medium,Regional,Arnott's,Arnott's Scotch Fingers,Biscuits,Sweet Biscuits,250,3.9,2,55,214.5,84.15,35,15,3,3.8,Yes,1,39.23,13.8,1.57,3.9,214.5,84.15,0.1,0.25,336.6
+S005,Medium,Regional,Coles,Coles Milk Arrowroot,Biscuits,Sweet Biscuits,250,2.9,1.45,70,203,101.5,45,19,1,2.8,Yes,2,50,17.5,1.56,2.9,101.5,50.75,0.1,0.5,203
+S005,Medium,Regional,Private Label,Woolworths Milk Arrowroot,Biscuits,Sweet Biscuits,250,2.7,1.35,85,229.5,114.75,60,22,0,2.6,Yes,2,50,21.2,1.42,2.7,114.75,57.38,0.1,0.5,229.5
+S005,Medium,Regional,Arnott's,Arnott's Choc Ripple,Biscuits,Sweet Biscuits,250,4.1,2.15,50,205,97.5,35,14,4,4,Yes,1,47.56,12.5,1.43,4.1,205,97.5,0.1,0.25,390
